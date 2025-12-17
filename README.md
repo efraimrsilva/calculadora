@@ -23,13 +23,13 @@ Este é um projeto de **Calculadora Simples** que permite realizar operações m
 ## 💡 Como usar
 
 Entre no site:
-[Calculadora](https://calculadora-efrals.netlify.app)
+[Calculadora](https://calculadora-efraimrsilva.netlify.app)
 
 OU
 
 1. Clone o repositório ou baixe o .zip do projeto:
    ```bash
-   git clone https://github.com/Efrals/calculadora.git
+   git clone https://github.com/efraimrsilva/calculadora.git
 
 2. Navegue até a pasta do projeto
 
